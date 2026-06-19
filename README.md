@@ -9,6 +9,7 @@ Hi, I'm Alfina!
 - C Programming
 - DBMS Basics
 - HTML & CSS
+- Basic JS
 
 ## Goals 🎯
 - Build strong coding skills
